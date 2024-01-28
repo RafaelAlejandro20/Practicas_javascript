@@ -1,3 +1,4 @@
 print("DESARROLLO JAVASCRIPT");
 print("Primer ejercicio")
-var num = 5
+var num1 = 5
+var num2 = 12
